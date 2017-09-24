@@ -15,6 +15,8 @@
 
 # Other
 127.0.0.1 ad.onliner.by
+127.0.0.1 coin-hive.com
+
 
 
 
