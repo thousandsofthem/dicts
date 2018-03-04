@@ -1,22 +1,16 @@
 # opera
-127.0.0.1 sitecheck2.opera.com
-127.0.0.1 nic4.opera.com
-127.0.0.1 nic3.opera.com
-127.0.0.1 nic1.opera.com
-127.0.0.1 nic2.opera.no
-127.0.0.1 recsys.op-cdn.net
-127.0.0.1 api.recsys.opera.com
-
+sitecheck2.opera.com
+nic4.opera.com
+nic3.opera.com
+nic1.opera.com
+nic2.opera.no
+recsys.op-cdn.net
+api.recsys.opera.com
 # GA
-127.0.0.1 google-analytics.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 stats.g.doubleclick.net
-
+google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+stats.g.doubleclick.net
 # Other
-127.0.0.1 ad.onliner.by
-127.0.0.1 coin-hive.com
-
-
-
-
+ad.onliner.by
+coin-hive.com
